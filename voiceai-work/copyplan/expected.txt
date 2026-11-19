@@ -1,0 +1,439 @@
+105QJheaBajL8tGUCUOAYSizubSci7c_V	1by1.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	Texr_in.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	Texr_in_bounce.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	Texr_out.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	bounce text.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	character down.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	character right.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	seed-library.json
+105QJheaBajL8tGUCUOAYSizubSci7c_V	text flicker.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	word down.ffx
+105QJheaBajL8tGUCUOAYSizubSci7c_V	word right.ffx
+105qDk42HUYz1QSUfOF4G3lLjq-eXDGhl	f0.png
+10PRMkEYfUvAej9W_scQBrgeOUeVZ12FX	f0.png
+10Vz4gdKYQ3rwVVFZ845wXkzC5lNhJtzF	logo.png
+14Dq6CDt1tIUENGcnSjixoStiQ94u3q_h	f0.png
+14c2H25_9f7lAv3UUbttbEW0Vq4pGEvsF	f0.png
+16eVA0deD7gAAaBimWtQ-ML2SR8wH2rzZ	f0.png
+19Agn6OjncoELKt_E1XTPGAF9ymKdLp9J	f0.png
+1AQBml01ZzJOcwIn67KfCB6a_AiMI9YSn	f0.png
+1B9v9snXsHbjIF8WXnQG2vluIcF4fJcP9	f0.png
+1BB9Dg2C0OIo4O08NyFKGMPmhPT796cDk	f0.png
+1CFW9TYnfE8rJsDcLKlogfie-UYdj1FGD	f0.png
+1CntcsWB_KY5ChPcRex4g-dN77v74Zk7z	f0.png
+1Ecv10Z0xNWvZArgzkky9iQurjHD-5WFr	code.js
+1Ecv10Z0xNWvZArgzkky9iQurjHD-5WFr	manifest.json
+1Ecv10Z0xNWvZArgzkky9iQurjHD-5WFr	ui.html
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	ai.jsx
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	broll.jsx
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	captions.jsx
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	hostscript.jsx
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	hostscript.jsxbin
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	qf-hotkey.ps1
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	quickfx.jsx
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	rs-crypt.js
+1F8XGT9l0qz0rnFxB1LIWtOg_6YxSWzZW	transitions-fx.jsx
+1G8bVUaIDTMhYPbgyFRYWSntC3BnMcJEr	f0.png
+1Hc8l-Iqz60PYYh1OLYXKA7vhS10NbYUY	f0.png
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	000_Position & Rotation Characters Down (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	001_Position & Rotation Characters Left (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	002_Position & Rotation Characters Right (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	003_Position & Rotation Characters Up (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	004_Position Characters Down (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	005_Position Characters Left (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	006_Position Characters Right (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	007_Position Characters Up (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	008_Position & Rotation Words Down (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	009_Position & Rotation Words Left (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	010_Position & Rotation Words Right (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	011_Position & Rotation Words Up (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	012_Position Words Down (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	013_Position Words Left (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	014_Position Words Right (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	015_Position Words Up (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	016_Position Line Down (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	017_Position Line Left (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	018_Position Line Right (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	019_Position Line Up (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	020_Scale & Rotation Characters (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	021_Scale & Rotation Words (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	022_Scale & Tracking Characters (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	023_Scale & Tracking Characters 2 (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	024_Scale & Tracking Words (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	025_Scale & Tracking Words 2 (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	026_Scale Characters (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	027_Scale Line (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	028_Scale Words (B).mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	029_3D Characters & Rotation Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	030_3D Characters & Rotation Front.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	031_3D Characters & Rotation Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	032_3D Characters & Rotation Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	033_3D Characters & Rotation Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	034_3D Characters Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	035_3D Characters Front.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	036_3D Characters Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	037_3D Characters Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	038_3D Characters Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	039_3D Words & Rotation Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	040_3D Words & Rotation Front.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	041_3D Words & Rotation Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	042_3D Words & Rotation Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	043_3D Words & Rotation Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	044_3D Words Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	045_3D Words Front.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	046_3D Words Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	047_3D Words Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	048_3D Words Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	049_Anchor Point Characters Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	050_Anchor Point Characters Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	051_Anchor Point Characters Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	052_Anchor Point Characters left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	053_Anchor Point Words Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	054_Anchor Point Words Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	055_Anchor Point Words Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	056_Anchor Point Words left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	057_Opacity & Blur Characters.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	058_Opacity Characters 1.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	059_Opacity Characters 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	060_Opacity Characters 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	061_Opacity & Blur Words.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	062_Opacity Words 1.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	063_Opacity Words 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	064_Opacity Words 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	065_Opacity Words 4.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	066_Position Characters Down 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	067_Position Characters Down 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	068_Position Characters Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	069_Position Characters Right 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	070_Position Characters Right 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	071_Position Characters Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	072_Position Characters Up 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	073_Position Characters Up 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	074_Position Characters Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	076_Position & Blur Words Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	077_Position & Blur Words Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	078_Position & Blur Words Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	079_Position Words Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	080_Position Words Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	081_Position Words Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	082_Position Words Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	083_Random Characters & Blur 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	084_Random Characters & Blur 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	085_Random Characters & Blur.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	086_Random Characters Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	087_Random Characters Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	088_Random Characters Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	089_Random Characters Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	090_Random Characters.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	091_Random Words & Blur 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	092_Random Words & Blur 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	093_Random Words & Blur.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	094_Random Words Down.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	095_Random Words Left.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	096_Random Words Right.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	097_Random Words Up.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	098_Random Words.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	099_Typewriter 1.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	100_Typewriter 2.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	101_Typewriter 3.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	102_Typewriter 4.mp4
+1HyRL6T2taTO0xTgbb3CzgGinss7dCU9s	103_Typewriter 5.mp4
+1I8tpX1c4txUXVSPdxbE5Mw2DG_pCBfIi	f0.png
+1IL3GiHYgL3plCnbqMq7QpmomDyr4wxCM	f0.png
+1JirV7Rh0heL6XxihtVam_5AHR0O9gCRq	f0.png
+1L4gqcWYmWCWcZissFNHcwczTnUxswoSo	circle_loop.ffx
+1L7UbzcCuR7EY4IjQ56YhdvXnn2XZJPZZ	f0.png
+1Mtdl0ihFGcmyLCPOMVMa-5_nJQ9-HsvQ	f0.png
+1N7sJlzaAIzPbotysW11KklTRIkbRrpO5	f0.png
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Blue Text.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Bright Blue.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Coral Red.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Cyber Blue.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Deep Glow By Sagor.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Flat icons Effect 1.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Forest Neon.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Frost Blue.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Glow Bomb.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Grass Neon.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Green Text.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Kelly Green.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Light Sweep Lock.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Lime Green.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Limit.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	My Blue.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	My Pink 2.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	My Pink.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	My Yellowish.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Navy Wave Duo.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Neon Olive Duo.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Pink Text.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Poison Kiss.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	RS Pixel Scan.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Ratin Text Style.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Shadow X.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Shadow by AR.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Sky Blue.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	TrendRS Icon.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	TrendRS Liquid Colour.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	True Green.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Venetian Blind.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Venetian blinds.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Vibrant Green.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Vibrant Purple.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	White BY AR.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	White.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Wine Pink Duo.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Woodland Green.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	YELLOW TEXT EFFECT.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Yellow Shine 2.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Yellow Text.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	Yellow.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	my green.rspk
+1NQu8S_h5HK4XiEHIIOJEAQTT57ntFUhW	premium icon by AR.rspk
+1QuTRpq6ZRWVEh2IOLHl4lsi00ci2tvq7	f0.png
+1R3ThVaQrfmc27ks5oCMl4q12w7lrwMEo	f0.png
+1RNaAeP7_V8pQ3An-k-SKLnl3KUyEmITf	f0.png
+1Rfwl8kzZMxma9v5BssfDXal2IabLMDfM	f0.png
+1RqG95Ln3O9Dh9m8wrEcZTTfqjjkcNpAF	f0.png
+1SL7nVorCK6maI5y21hJwFsp7mGnUu5OZ	f0.png
+1TdXlVqBOUiUipneyV7rY1EzUa8vvB5aG	f0.png
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	000_Position & Rotation Characters Down (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	001_Position & Rotation Characters Left (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	002_Position & Rotation Characters Right (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	003_Position & Rotation Characters Up (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	004_Position Characters Down (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	005_Position Characters Left (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	006_Position Characters Right (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	007_Position Characters Up (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	008_Position & Rotation Words Down (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	009_Position & Rotation Words Left (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	010_Position & Rotation Words Right (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	011_Position & Rotation Words Up (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	012_Position Words Down (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	013_Position Words Left (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	014_Position Words Right (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	015_Position Words Up (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	016_Position Line Down (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	017_Position Line Left (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	018_Position Line Right (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	019_Position Line Up (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	020_Scale & Rotation Characters (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	021_Scale & Rotation Words (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	022_Scale & Tracking Characters (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	023_Scale & Tracking Characters 2 (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	024_Scale & Tracking Words (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	025_Scale & Tracking Words 2 (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	026_Scale Characters (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	027_Scale Line (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	028_Scale Words (B).ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	029_3D Characters & Rotation Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	030_3D Characters & Rotation Front.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	031_3D Characters & Rotation Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	032_3D Characters & Rotation Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	033_3D Characters & Rotation Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	034_3D Characters Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	035_3D Characters Front.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	036_3D Characters Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	037_3D Characters Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	038_3D Characters Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	039_3D Words & Rotation Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	040_3D Words & Rotation Front.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	041_3D Words & Rotation Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	042_3D Words & Rotation Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	043_3D Words & Rotation Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	044_3D Words Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	045_3D Words Front.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	046_3D Words Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	047_3D Words Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	048_3D Words Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	049_Anchor Point Characters Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	050_Anchor Point Characters Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	051_Anchor Point Characters Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	052_Anchor Point Characters left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	053_Anchor Point Words Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	054_Anchor Point Words Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	055_Anchor Point Words Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	056_Anchor Point Words left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	057_Opacity & Blur Characters.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	058_Opacity Characters 1.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	059_Opacity Characters 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	060_Opacity Characters 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	061_Opacity & Blur Words.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	062_Opacity Words 1.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	063_Opacity Words 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	064_Opacity Words 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	065_Opacity Words 4.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	066_Position Characters Down 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	067_Position Characters Down 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	068_Position Characters Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	069_Position Characters Right 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	070_Position Characters Right 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	071_Position Characters Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	072_Position Characters Up 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	073_Position Characters Up 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	074_Position Characters Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	075_Position & Blur Words Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	076_Position & Blur Words Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	077_Position & Blur Words Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	078_Position & Blur Words Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	079_Position Words Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	080_Position Words Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	081_Position Words Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	082_Position Words Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	083_Random Characters & Blur 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	084_Random Characters & Blur 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	085_Random Characters & Blur.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	086_Random Characters Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	087_Random Characters Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	088_Random Characters Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	089_Random Characters Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	090_Random Characters.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	091_Random Words & Blur 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	092_Random Words & Blur 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	093_Random Words & Blur.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	094_Random Words Down.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	095_Random Words Left.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	096_Random Words Right.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	097_Random Words Up.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	098_Random Words.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	099_Typewriter 1.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	100_Typewriter 2.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	101_Typewriter 3.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	102_Typewriter 4.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	103_Typewriter 5.ffx
+1U1NQUO_nNmGfVkCpBEaFg2o8Eolmf2gD	crazy-text-manifest.json
+1UH0_xMCRP7QzHt3juIMs1KTqUx0tYmr4	f0.png
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	README.txt
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-dip-black.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-dip-white.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-lens-out.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-shake.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-spin.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-whip-hit.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-whip.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-zoom-through.mp4
+1WoPlx_VBd-P8VmhcdYHu64qFoZE38447	tr-zoom-twirl.mp4
+1YACHV5q34pBNwgIMqY4keVEK4RS8RjEJ	Luxury_Gradients.rspk
+1YACHV5q34pBNwgIMqY4keVEK4RS8RjEJ	iOS_Backgrounds.rspk
+1YaFuOj_YjegK6fNCFGiyE344aC2lOlU1	f0.png
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	RELEASE-build.bat
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	RELEASE-obfuscate.bat
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	RESTORE-readable.bat
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	SETUP-BANGLA.txt
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	encrypt-presets.js
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	master.key
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	obf-config.json
+1YfNxEosTUOJvli54nUHiRzMcUpH5-zNz	package.json
+1_-MuxjQiy4-sDmv7iokcTAXwGfoXrHj6	f0.png
+1_gvMqVb5oHXCfTCYhXroQJmAqgnHdFp7	f0.png
+1bD8OCkjM15GTVDmabLfcGqdbFvayrpz2	f0.png
+1be8wdY6so1fKG3EqeYU0CPsgWBd8H09B	f0.png
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	ai.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	autoupdate.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	broll.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	captions.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	community-popup.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	expressions.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	lang.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	main.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	onboarding.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	quickfx-core.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	quickfx-window.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	quickfx.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	theme-aurora.js
+1dNyR7kkiumhOt5V59yDSnWMzwiX5DIpO	theme-rt.js
+1eW5WR5ZbsseGtSApuXgWNAZxr224imai	f0.png
+1egCYMDf1RiC66F-OQSSfLQxPXLblhT-g	f0.png
+1fTopEXetKC1v6IunvbL-SeZmJ2vH7Gxf	Glowing_Text.aep
+1fTopEXetKC1v6IunvbL-SeZmJ2vH7Gxf	preview.mp4
+1hb6vI_vjA4Mg3Mk4ROrTZUHD0JEJJEj7	f0.png
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	aeShapeBuilder.jsx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	figmaRunner.jsx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	grad-template.ffx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	gradoverlay-template.ffx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	gradstroke-template.ffx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	innershadow-overlay-template.ffx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	innershadow-template.ffx
+1kdIG_uPFBW3jeUOq0omp38WgyesaGo37	svgParser.js
+1klYvapkxCvVeCKHqVGEF-AEpR3OfM4Xk	f0.png
+1l3uhOxh0XTGviJu7WdpxLOnMbN8Una3T	Luxury_Gradients.rspk
+1l3uhOxh0XTGviJu7WdpxLOnMbN8Una3T	iOS_Backgrounds.rspk
+1ldjgwn4wj2QHZhv_GhfPsn0aMp9ToLN5	f0.png
+1mNfi7JJy-2YzFaNqvUBgxy8kj1jPa2xa	LICENSE.txt
+1o-57FSxFWxB46182f14y8vX2ZXk6MBjm	lang.js.20261115-122223.bak
+1o-57FSxFWxB46182f14y8vX2ZXk6MBjm	main.js.20261115-122223.bak
+1o6O6TtGBMbq3Fh5ZypMph8Lqt54l2Ugs	manifest.xml
+1pIRbehpVAmoSy6ZfSWDHQym_lZ9ijwuQ	f0.png
+1q_SuYtFCB-XJsSEq5XrkP7JGmbSStn1V	f0.png
+1qolLn_VwsoSoHFlw9k-1CXcP06Rk56je	f0.png
+1t1xx0WOGr97TG7UBUmRWGxnhFkS6a9A6	qf-hotkey-mac
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Blue Text.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Bright Blue.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Coral Red.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Cyber Blue.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Deep Glow By Sagor.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Flat icons Effect 1.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Forest Neon.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Frost Blue.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Glow Bomb.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Grass Neon.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Green Text.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Kelly Green.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Light Sweep Lock.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Lime Green.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Limit.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	My Blue.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	My Pink 2.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	My Pink.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	My Yellowish.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Navy Wave Duo.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Neon Olive Duo.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Pink Text.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Poison Kiss.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	RS Pixel Scan.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Ratin Text Style.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Shadow X.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Shadow by AR.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Sky Blue.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	TrendRS Icon.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	TrendRS Liquid Colour.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	True Green.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Venetian Blind.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Venetian blinds.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Vibrant Green.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Vibrant Purple.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	White BY AR.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	White.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Wine Pink Duo.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Woodland Green.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	YELLOW TEXT EFFECT.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Yellow Shine 2.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Yellow Text.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	Yellow.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	my green.rspk
+1vWl4ASLq4NbkZr_oku7E9i9lqixSHb6i	premium icon by AR.rspk
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	ai.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	autoupdate.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	broll.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	captions.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	community-popup.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	expressions.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	hostscript.jsx
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	lang.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	main.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	onboarding.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	quickfx-core.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	quickfx-window.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	quickfx.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	rs-crypt.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	theme-aurora.js
+1w99iNDiQlTz136jG5dDcICFltge3NVLV	theme-rt.js
+1wztiHt9wIvVXjtwfg6lNNsbfavCm1NR8	f0.png
+1x6qnor1vhfIP7FOqCG_EYVwRY_bqXMuE	f0.png
+1xnVmk1MI6lt7thLUU_VyeUVLVBP6V43p	f0.png
+1zbNBu35X8pak8k5-aHlhdzTr7dhwc7FM	Blue.mp4
+1zbNBu35X8pak8k5-aHlhdzTr7dhwc7FM	Cyan.mp4
+1zbNBu35X8pak8k5-aHlhdzTr7dhwc7FM	Green.mp4
+1zbNBu35X8pak8k5-aHlhdzTr7dhwc7FM	Purple.mp4
+1zsE_CDCYyWa_6slEwG2C8NRqCKgXyMbB	Click2_bg.png
+1zsE_CDCYyWa_6slEwG2C8NRqCKgXyMbB	Mouse_apple_Fist.png
